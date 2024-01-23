@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\bin\Debug\net8.0\ComparacaoStrings.exe
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\bin\Debug\net8.0\ComparacaoStrings.deps.json
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\bin\Debug\net8.0\ComparacaoStrings.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\bin\Debug\net8.0\ComparacaoStrings.dll
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\bin\Debug\net8.0\ComparacaoStrings.pdb
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.dll
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\refint\ComparacaoStrings.dll
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.pdb
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ComparacaoStrings.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\ComparacaoStrings\obj\Debug\net8.0\ref\ComparacaoStrings.dll
